@@ -14,7 +14,9 @@ function App() {
         </header>
         <Body />
         <footer className='footer'>
-          <h3 className='footer-link'>www.anubhabkarki.com</h3>
+          <h3 className='footer-link'>
+            <a href='www.anubhabkarki.com'>www.anubhabkarki.com</a>
+          </h3>
           <h3 className='footer-link'>©2022AnubhabKarki</h3>
         </footer>
       </div>
